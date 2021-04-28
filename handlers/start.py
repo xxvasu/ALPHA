@@ -14,6 +14,7 @@ async def start_(client: Client, message: Message):
         f"""<b>Hi {message.from_user.first_name}!
 \nI can play music in your group's voice chat
 Maintained by @xxvasu ❤
+Any Query ➢ @shadow_viper
 \nTo add in your group contact us at @Yuki_Support
 \nHit /help list of available commands.
  </b>""",
@@ -39,7 +40,7 @@ Maintained by @xxvasu ❤
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/YukiMusicBot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/AlphaMusicRobot?startgroup=true"
                     ) 
                 ]
             ]
@@ -58,7 +59,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "❓ Cmd", url="https://telegra.ph/Yuki-04-26-3"
+                        "❓ commands", url="https://telegra.ph/Yuki-04-26-3"
                     )
                 ],    
                 [    
@@ -104,7 +105,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Any Query", url="https://t.me/Yuki_Support"
+                        "Need Help❓", url="https://t.me/Yuki_Support"
                     )
                 ]
             ]
