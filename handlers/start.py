@@ -29,10 +29,10 @@ Any Query ➢ @shadow_viper
                 ],
                 [
                     InlineKeyboardButton(
-                        " Channel", url="https://t.me/Laylalist"
+                        "💬 Group", url="https://t.me/LaylaSupport"
                     ),
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/LaylaSupport"
+                        "🔊 Channel", url="https://t.me/Laylalist"
                     ),
                     InlineKeyboardButton(
                         "❓ Commands", url="https://telegra.ph/Yuki-04-26-3"
