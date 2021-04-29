@@ -29,10 +29,10 @@ Any Query ➢ @shadow_viper
                 ],
                 [
                     InlineKeyboardButton(
-                        "👤 Owner", url="https://t.me/xxvasu"
+                        " Channel", url="https://t.me/Laylalist"
                     ),
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/hindi_chatting_india"
+                        "💬 Group", url="https://t.me/LaylaSupport"
                     ),
                     InlineKeyboardButton(
                         "❓ Commands", url="https://telegra.ph/Yuki-04-26-3"
