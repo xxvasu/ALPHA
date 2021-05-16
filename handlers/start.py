@@ -24,7 +24,7 @@ Maintained by @xxvasu ❤
             [
                 [
                     InlineKeyboardButton(
-                        "𝗪𝗖 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗛𝗢𝗨𝗥𝗦🎵", url="https://t.me/hindi_chatting_india",
+                        "♬Ɯ៩ន០៣៩ ᖲᖰ០នន០៣ន🎵", url="https://t.me/hindi_chatting_india",
                     )
                 ],
                 [
