@@ -14,7 +14,7 @@ async def start_(client: Client, message: Message):
         f"""<b>Hi {message.from_user.first_name}!
 \nI am ΛLEXA ᴍᴜꜱɪᴄ bot • @xxvasu ❤
 \nContact us at @Yuki_Support
-\n➢ /help list of available commands.
+\n/help list of available commands
  </b>""",
       
        
@@ -57,7 +57,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "❓ commands", url="https://telegra.ph/Yuki-04-26-3"
+                        "🔊 Updates", url="https://t.me/vasuxd"
                     )
                 ],    
                 [    
@@ -103,7 +103,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Need Help❓", url="https://t.me/Yuki_Support"
+                        "Help", url="https://t.me/Yuki_Support"
                     )
                 ]
             ]
