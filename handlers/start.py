@@ -12,11 +12,9 @@ async def start_(client: Client, message: Message):
     await message.reply_sticker("CAACAgUAAxkBAAIp9mBtwBBZGywWEmV-WC8gcMArjusuAAKMAgACTp1xV6m-mtC1YTfoHgQ")
     await message.reply_text(
         f"""<b>Hi {message.from_user.first_name}!
-\nI can play music in your group's voice chat
-Maintained by @xxvasu ❤
-
-\nTo add in your group contact us at @Yuki_Support
-\nHit /help list of available commands.
+\nI am ΛLEXA ᴍᴜꜱɪᴄ bot • @xxvasu ❤
+\nContact us at @Yuki_Support
+\n➢ /help list of available commands.
  </b>""",
       
        
@@ -29,13 +27,13 @@ Maintained by @xxvasu ❤
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/LaylaSupport"
+                        "💬 Group", url="https://t.me/AwesomeSupport"
                     ),
                     InlineKeyboardButton(
                         "🔊 Channel", url="https://t.me/Laylalist"
                     ),
                     InlineKeyboardButton(
-                        "❓ Commands", url="https://telegra.ph/Yuki-04-26-3"
+                        "👤 OwnerInfo", url="https://t.me/vasuxd"
                     )
                 ],
                 [
