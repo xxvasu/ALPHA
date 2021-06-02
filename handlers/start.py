@@ -80,6 +80,7 @@ async def start(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_text(
         f"""<b>Hi {message.from_user.first_name}!
+\n𝐔𝐒𝐄𝐑 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒
 \n/play <song name> - play song you requested
 /dplay <song name> - play song you requested via deezer
 /splay <song name> - play song you requested via jio saavn
@@ -90,7 +91,7 @@ async def help(client: Client, message: Message):
 /deezer <song name> - download songs you want quickly via deezer
 /saavn <song name> - download songs you want quickly via saavn
 /video <song name> - download videos you want quickly
-\n*Admins only*
+\n𝐀𝐃𝐌𝐈𝐍𝐒 𝐎𝐍𝐋𝐘
 /player - open music player settings panel
 /pause - pause song play
 /resume - resume song play
@@ -98,12 +99,13 @@ async def help(client: Client, message: Message):
 /end - stop music play
 /userbotjoin - invite assistant to your chat
 /admincache - Refresh admin list
+\n𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 ❤️ 𝐛𝐲 𝐕𝐀𝐒𝐔
  </b>""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Help", url="https://t.me/Yuki_Support"
+                        "𝐇𝐄𝐋𝐏 𝐂𝐎𝐍𝐓𝐀𝐂𝐓", url="https://t.me/Yuki_Support"
                     )
                 ]
             ]
